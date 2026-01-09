@@ -184,7 +184,8 @@ button{
 
     .ultimate li {
 
-        flex-basis: calc((100% - 20px)/2);
+        flex-basis: 350px;
+        flex-shrink: 0;
 
     }
 
